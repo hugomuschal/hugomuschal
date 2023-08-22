@@ -4,13 +4,9 @@ Willkommen auf meinem GitHub-Profil!👋
 
 🎂 19 Jahre
 
-📍 Magdeburg
-
 📘 Duales Studium in Informatik bei der Sulzer GmbH
 
 💻 Full Stack Developer
-
-🌐 Website: muschal.de
 
 📧 Bei Fragen oder Anregungen schreib mir gerne an hugo@muschal.com
 <!---
