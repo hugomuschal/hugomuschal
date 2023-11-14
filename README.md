@@ -2,7 +2,7 @@ Willkommen auf meinem GitHub-Profil!👋
 
 👨‍💻 Hugo
 
-🎂 19 Jahre
+🎂 20 Jahre
 
 📘 Duales Studium in Informatik bei der Sulzer GmbH
 
