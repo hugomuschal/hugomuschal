@@ -2,11 +2,11 @@
 
 👨‍💻 Hugo
 
-🎂 20 Jahre
+🎂 21 Jahre
 
 📘 Duales Studium in Informatik bei der [Sulzer GmbH](https://www.sulzer.de/)
 
-💻 Full Stack Developer
+💻 Aktueller Tech-Stack: Swift, CloudKit, Angular, Java, ABAP, SAPUI5
 
 📧 Bei Fragen oder Anregungen schreib mir gerne an hugo@muschal.com
 
