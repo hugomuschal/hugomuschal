@@ -2,7 +2,7 @@
 
 👨‍💻 Hugo
 
-🎂 21 Jahre
+🎂 22 Jahre
 
 📘 Duales Studium in Informatik bei der [Sulzer GmbH](https://www.sulzer.de/)
 
